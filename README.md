@@ -1,35 +1,80 @@
 # Certificates
 
-<div align="center">
+<div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-![Certificate](1.png)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="1.png" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](2.png)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="2.png" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](3.png)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="3.png" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](4.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="4.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](5.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="5.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](6.png)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="6.png" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](7.png)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="7.png" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](8.png)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="8.png" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](9.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="9.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](10.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="10.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](11.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="11.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](12.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="12.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](13.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="13.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](14.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="14.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
-![Certificate](avishkar.jpg)
+<div style="border: 1px solid #ccc; padding: 10px; width: 250px; text-align: center;">
+  <img src="avishkar.jpg" alt="Certificate" style="width: 100%; height: auto;">
+  <p>Certificate</p>
+</div>
 
 </div>
